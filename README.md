@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Timic Ivey</h1>
 <h3 align="center">A frontend developer looking to always get better</h3>
 <hr></hr>
-<img align="right" alt="coding gif" width="350" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
+<img align="right" alt="coding gif" width="300" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
 
 - 🌱 I’m currently learning **React**
 
