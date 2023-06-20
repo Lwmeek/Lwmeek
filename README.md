@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [timicivey.com](timicivey.com)
+- 👨‍💻 All of my projects are available at [timicivey.com](https://portfolio-gold-nine-29.vercel.app/)
 
 - 📫 How to reach me **timicivey27@gmail.com**
 
