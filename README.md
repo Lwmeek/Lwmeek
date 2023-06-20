@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **timicivey27@gmail.com**
 
-- 📄 Know about my experiences [[timicivey.com](https://portfolio-gold-nine-29.vercel.app/)]
+- 📄 Know about my experiences [timicivey.com](https://portfolio-gold-nine-29.vercel.app/)
 
 - ⚡ Fun fact **I love sports and video games as well.**
 
